@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1104ff84e1245ab91d6cec4cba7aa28, type: 3}
+  m_Name: ArtArchive
+  m_EditorClassIdentifier: Assembly-CSharp::Gameplay.Arts.ArtArchive
+  _artConfigs:
+  - {fileID: 11400000, guid: 48bad845f068f0e4da49f8d414dec145, type: 2}
+  - {fileID: 11400000, guid: d0e5e28a2d498cc45b8ff87988fa8a8a, type: 2}
+  - {fileID: 11400000, guid: d632aa0442f07f74086f72139b80307a, type: 2}
+  - {fileID: 11400000, guid: 9b12f486d3798584990d5e70b25462ad, type: 2}
+  - {fileID: 11400000, guid: fadc02a46f0b00046a265fab6598a54b, type: 2}
+  - {fileID: 11400000, guid: ad1602f9d85a6e142b86cf47b08b21a1, type: 2}
